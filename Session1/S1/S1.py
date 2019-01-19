@@ -1,1 +1,1 @@
-print("Whatever man")
+print("Whatever man!")
